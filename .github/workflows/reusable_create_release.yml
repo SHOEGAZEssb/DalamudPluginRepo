@@ -60,7 +60,8 @@ jobs:
   deploy:
     needs: build
     runs-on: windows-2022
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout Plugin Repository
         uses: actions/checkout@v3
