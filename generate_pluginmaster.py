@@ -76,7 +76,7 @@ def add_extra_fields(manifests):
             for k in keys:
                 if k not in manifest:
                     manifest[k] = manifest[source]
-        manifest['DownloadCount'] = get_release_download_count('UnknownX7', manifest["InternalName"], manifest['AssemblyVersion'])
+        manifest['DownloadCount'] = get_release_download_count('SHOEGAZEssb', manifest["InternalName"], manifest['AssemblyVersion'])
 
 def get_release_download_count(username, repo, id):
     r = requests.get(GITHUB_RELEASES_API_URL.format(username, repo, id))
