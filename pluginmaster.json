@@ -6,7 +6,7 @@
         "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
         "Changelog": "",
         "InternalName": "AchManager",
-        "AssemblyVersion": "0.0.0.9",
+        "AssemblyVersion": "0.0.0.10",
         "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,12 +17,12 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v0.0.0.9/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v0.0.0.10/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v0.0.0.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v0.0.0.9/latest.zip",
-        "DownloadCount": 2,
-        "LastUpdate": "1717962185"
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v0.0.0.10/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v0.0.0.10/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1718030418"
     }
 ]
