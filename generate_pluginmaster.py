@@ -76,17 +76,25 @@ def add_extra_fields(manifests):
             for k in keys:
                 if k not in manifest:
                     manifest[k] = manifest[source]
-        manifest['DownloadCount'] = get_release_download_count('SHOEGAZEssb', manifest["InternalName"], manifest['AssemblyVersion'])
+        manifest['DownloadCount'] = get_release_download_count('SHOEGAZEssb', manifest["InternalName"])
 
 def get_release_download_count(username, repo, id):
-    r = requests.get(GITHUB_RELEASES_API_URL.format(username, repo, id))
-    if r.status_code == 200:
-        data = r.json()
-        total = 0
-        for asset in data['assets']:
-            total += asset['download_count']
-        return total
-    else:
+    try:
+        url = GITHUB_RELEASES_API_URL.format(username, repo)
+        r = requests.get(url)
+        r.raise_for_status()  # Will raise an HTTPError if the HTTP request returned an unsuccessful status code
+        releases = r.json()
+        
+        total_download_count = 0
+        for release in releases:
+            if 'assets' in release:
+                total_download_count += sum(asset.get('download_count', 0) for asset in release['assets'])
+        
+        return total_download_count
+    
+    except requests.exceptions.RequestException as e:
+        # Print the error message
+        print(f"Request failed: {e}")
         return 0
     
 def get_last_updated_times(manifests):
