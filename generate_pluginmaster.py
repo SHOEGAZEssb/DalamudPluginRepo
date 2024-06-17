@@ -78,7 +78,7 @@ def add_extra_fields(manifests):
                     manifest[k] = manifest[source]
         manifest['DownloadCount'] = get_release_download_count('SHOEGAZEssb', manifest["InternalName"])
 
-def get_release_download_count(username, repo, id):
+def get_release_download_count(username, repo):
     try:
         url = GITHUB_RELEASES_API_URL.format(username, repo)
         r = requests.get(url)
