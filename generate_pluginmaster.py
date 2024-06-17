@@ -5,7 +5,7 @@ from time import time
 from sys import argv
 
 DOWNLOAD_URL = '{}/releases/download/v{}/latest.zip'
-GITHUB_RELEASES_API_URL = 'https://api.github.com/repos/{}/{}/releases/tags/v{}'
+GITHUB_RELEASES_API_URL = 'https://api.github.com/repos/{}/{}/releases'
 
 DEFAULTS = {
     'IsHide': False,
