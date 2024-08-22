@@ -24,5 +24,31 @@
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.0.0/latest.zip",
         "DownloadCount": 35,
         "LastUpdate": "1720639619"
+    },
+    {
+        "Author": "SHOEGAZEssb",
+        "Name": "Dagobert",
+        "Punchline": "Penny pinching to the extreme",
+        "Description": "Automates market board penny pinching",
+        "Changelog": "",
+        "InternalName": "Dagobert",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Utility"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v0.0.0.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v0.0.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v0.0.0.1/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1724366548"
     }
 ]
