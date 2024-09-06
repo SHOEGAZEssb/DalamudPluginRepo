@@ -1,0 +1,18 @@
+{
+  "Author": "SHOEGAZEssb",
+  "Name": "DutyLanguage",
+  "InternalName": "DutyLanguage",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Lets you configure voice acting language on a per-duty basis.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "other"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Diversify your ingame voice acting experience",
+  "AcceptsFeedback": true
+}
