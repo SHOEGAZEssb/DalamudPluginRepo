@@ -17,3 +17,9 @@ https://github.com/SHOEGAZEssb/AchManager
 Automates penny pinching your market board items
 
 https://github.com/SHOEGAZEssb/Dagobert
+
+### DutyLanguage
+
+Allows you to customize the language of voice acting on a per-duty basis
+
+https://github.com/SHOEGAZEssb/DutyLanguage
