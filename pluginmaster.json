@@ -22,7 +22,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v0.0.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v0.0.0.14/latest.zip",
-        "DownloadCount": 125,
+        "DownloadCount": 126,
         "LastUpdate": "1732029851"
     },
     {
@@ -32,7 +32,7 @@
         "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
         "Changelog": "",
         "InternalName": "AchManager",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.1.0",
         "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
         "ApplicableVersion": "any",
         "Tags": [
@@ -43,13 +43,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
         "DownloadCount": 70,
-        "LastUpdate": "1720639619"
+        "LastUpdate": "1732032415"
     },
     {
         "Author": "SHOEGAZEssb",
