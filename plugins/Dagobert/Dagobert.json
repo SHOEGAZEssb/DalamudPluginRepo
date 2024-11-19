@@ -2,14 +2,14 @@
   "Author": "SHOEGAZEssb",
   "Name": "Dagobert",
   "InternalName": "Dagobert",
-  "AssemblyVersion": "0.0.0.13",
+  "AssemblyVersion": "0.0.0.14",
   "Description": "Automates market board penny pinching",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
   "Tags": [
     "Utility"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
