@@ -22,7 +22,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v0.0.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v0.0.0.14/latest.zip",
-        "DownloadCount": 124,
+        "DownloadCount": 125,
         "LastUpdate": "1732029851"
     },
     {
@@ -38,7 +38,7 @@
         "Tags": [
             "achievements"
         ],
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "IconUrl": "",
         "ImageUrls": [
             ""
