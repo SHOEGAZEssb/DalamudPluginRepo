@@ -22,7 +22,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.0.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.0.0.0/latest.zip",
-        "DownloadCount": 241,
+        "DownloadCount": 243,
         "LastUpdate": "1732223566"
     },
     {
@@ -48,7 +48,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
-        "DownloadCount": 100,
+        "DownloadCount": 101,
         "LastUpdate": "1732032415"
     },
     {
@@ -74,7 +74,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
-        "DownloadCount": 14,
+        "DownloadCount": 15,
         "LastUpdate": "1732033491"
     }
 ]
