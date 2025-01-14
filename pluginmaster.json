@@ -1,29 +1,29 @@
 [
     {
         "Author": "SHOEGAZEssb",
-        "Name": "Dagobert",
-        "Punchline": "Penny pinching to the extreme",
-        "Description": "Automates market board penny pinching",
+        "Name": "DutyLanguage",
+        "Punchline": "Diversify your ingame voice acting experience",
+        "Description": "Lets you configure voice acting language on a per-duty basis.",
         "Changelog": "",
-        "InternalName": "Dagobert",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
+        "InternalName": "DutyLanguage",
+        "AssemblyVersion": "1.0.1.0",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
         "ApplicableVersion": "any",
         "Tags": [
-            "Utility"
+            "other"
         ],
         "DalamudApiLevel": 11,
-        "IconUrl": "",
+        "IconUrl": "https://github.com/SHOEGAZEssb/DutyLanguage/blob/master/DutyLanguage/images/icon.png",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.0.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.0.0.0/latest.zip",
-        "DownloadCount": 280,
-        "LastUpdate": "1732223566"
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
+        "DownloadCount": 15,
+        "LastUpdate": "1732033491"
     },
     {
         "Author": "SHOEGAZEssb",
@@ -48,33 +48,33 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
-        "DownloadCount": 115,
+        "DownloadCount": 116,
         "LastUpdate": "1732032415"
     },
     {
         "Author": "SHOEGAZEssb",
-        "Name": "DutyLanguage",
-        "Punchline": "Diversify your ingame voice acting experience",
-        "Description": "Lets you configure voice acting language on a per-duty basis.",
+        "Name": "Dagobert",
+        "Punchline": "Penny pinching to the extreme",
+        "Description": "Automates market board penny pinching",
         "Changelog": "",
-        "InternalName": "DutyLanguage",
-        "AssemblyVersion": "1.0.1.0",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
+        "InternalName": "Dagobert",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
         "ApplicableVersion": "any",
         "Tags": [
-            "other"
+            "Utility"
         ],
         "DalamudApiLevel": 11,
-        "IconUrl": "https://github.com/SHOEGAZEssb/DutyLanguage/blob/master/DutyLanguage/images/icon.png",
+        "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.0.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
-        "DownloadCount": 15,
-        "LastUpdate": "1732033491"
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.0.0.0/latest.zip",
+        "DownloadCount": 280,
+        "LastUpdate": "1732223566"
     }
 ]
