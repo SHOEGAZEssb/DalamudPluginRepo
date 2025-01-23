@@ -27,32 +27,6 @@
     },
     {
         "Author": "SHOEGAZEssb",
-        "Name": "AchManager",
-        "Punchline": "Get notifications for achievement progress!",
-        "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
-        "Changelog": "",
-        "InternalName": "AchManager",
-        "AssemblyVersion": "1.1.1.0",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "achievements"
-        ],
-        "DalamudApiLevel": 11,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
-        "DownloadCount": 123,
-        "LastUpdate": "1732032415"
-    },
-    {
-        "Author": "SHOEGAZEssb",
         "Name": "Dagobert",
         "Punchline": "Penny pinching to the extreme",
         "Description": "Automates market board penny pinching",
@@ -76,5 +50,31 @@
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.0.0.0/latest.zip",
         "DownloadCount": 318,
         "LastUpdate": "1732223566"
+    },
+    {
+        "Author": "SHOEGAZEssb",
+        "Name": "AchManager",
+        "Punchline": "Get notifications for achievement progress!",
+        "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
+        "Changelog": "",
+        "InternalName": "AchManager",
+        "AssemblyVersion": "1.1.1.0",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "achievements"
+        ],
+        "DalamudApiLevel": 11,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
+        "DownloadCount": 123,
+        "LastUpdate": "1732032415"
     }
 ]
