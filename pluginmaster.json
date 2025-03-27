@@ -32,24 +32,24 @@
         "Description": "Automates market board penny pinching",
         "Changelog": "",
         "InternalName": "Dagobert",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.1.0",
         "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
         "ApplicableVersion": "any",
         "Tags": [
             "Utility"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.1.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.1.1.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.1.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.1.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.1.1.0/latest.zip",
         "DownloadCount": 589,
-        "LastUpdate": "1738089818"
+        "LastUpdate": "1743106150"
     },
     {
         "Author": "SHOEGAZEssb",
