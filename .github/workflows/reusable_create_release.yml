@@ -71,7 +71,7 @@ jobs:
           ref: ${{ inputs.personal_plugin_repo_branch }}
 
       - name: Download Plugin Build Artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: artifact
           path: plugins/${{ inputs.internal_name }}
