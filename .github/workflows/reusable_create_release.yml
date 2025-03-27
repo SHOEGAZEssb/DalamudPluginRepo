@@ -53,7 +53,7 @@ jobs:
         run: msbuild ${{ inputs.solution_name }}.sln /p:Configuration=${{ inputs.build_configuration }}
 
       - name: Upload Build Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           path: ./${{ inputs.solution_name }}/bin/x64/${{ inputs.build_configuration }}/${{ inputs.solution_name }}/*
 
