@@ -2,14 +2,14 @@
   "Author": "SHOEGAZEssb",
   "Name": "DutyLanguage",
   "InternalName": "DutyLanguage",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.2.0",
   "Description": "Lets you configure voice acting language on a per-duty basis.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
   "Tags": [
     "other"
   ],
-  "DalamudApiLevel": 11,
+  "DalamudApiLevel": 12,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
