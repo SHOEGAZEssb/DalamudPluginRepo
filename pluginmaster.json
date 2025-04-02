@@ -6,24 +6,24 @@
         "Description": "Lets you configure voice acting language on a per-duty basis.",
         "Changelog": "",
         "InternalName": "DutyLanguage",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.2.0",
         "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
         "ApplicableVersion": "any",
         "Tags": [
             "other"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "IconUrl": "https://github.com/SHOEGAZEssb/DutyLanguage/blob/master/DutyLanguage/images/icon.png",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
         "DownloadCount": 20,
-        "LastUpdate": "1732033491"
+        "LastUpdate": "1743618189"
     },
     {
         "Author": "SHOEGAZEssb",
