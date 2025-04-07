@@ -22,7 +22,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "DownloadCount": 26,
+        "DownloadCount": 27,
         "LastUpdate": "1743618189"
     },
     {
@@ -32,7 +32,7 @@
         "Description": "Automates market board penny pinching",
         "Changelog": "",
         "InternalName": "Dagobert",
-        "AssemblyVersion": "1.1.1.0",
+        "AssemblyVersion": "1.2.0.0",
         "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
         "ApplicableVersion": "any",
         "Tags": [
@@ -43,13 +43,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.1.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.2.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.1.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.1.1.0/latest.zip",
-        "DownloadCount": 876,
-        "LastUpdate": "1743106150"
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.2.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.2.0.0/latest.zip",
+        "DownloadCount": 878,
+        "LastUpdate": "1744026916"
     },
     {
         "Author": "SHOEGAZEssb",
@@ -74,7 +74,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.2.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.2.0.0/latest.zip",
-        "DownloadCount": 309,
+        "DownloadCount": 313,
         "LastUpdate": "1743933544"
     }
 ]
