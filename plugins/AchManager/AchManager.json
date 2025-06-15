@@ -2,7 +2,7 @@
   "Author": "SHOEGAZEssb",
   "Name": "AchManager",
   "InternalName": "AchManager",
-  "AssemblyVersion": "1.3.0.0",
+  "AssemblyVersion": "1.4.0.0",
   "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
