@@ -3,27 +3,27 @@
         "Author": "SHOEGAZEssb",
         "Name": "Dagobert",
         "Punchline": "Penny pinching to the extreme",
-        "Description": "Automates market board penny pinching",
+        "Description": "Automatically penny pinches all your market board items.",
         "Changelog": "",
         "InternalName": "Dagobert",
-        "AssemblyVersion": "1.8.0.0",
+        "AssemblyVersion": "1.9.0.0",
         "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
         "ApplicableVersion": "any",
         "Tags": [
             "Utility"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.8.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.9.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.8.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.8.0.0/latest.zip",
-        "DownloadCount": 6158,
-        "LastUpdate": "1763200614"
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.9.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.9.0.0/latest.zip",
+        "DownloadCount": 6159,
+        "LastUpdate": "1766222404"
     },
     {
         "Author": "SHOEGAZEssb",
