@@ -29,27 +29,27 @@
         "Author": "SHOEGAZEssb",
         "Name": "AchManager",
         "Punchline": "Get notifications for achievement progress!",
-        "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
+        "Description": "Notifications for achievement progress.",
         "Changelog": "",
         "InternalName": "AchManager",
-        "AssemblyVersion": "1.5.0.0",
+        "AssemblyVersion": "1.6.0.0",
         "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
         "ApplicableVersion": "any",
         "Tags": [
             "achievements"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.5.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.6.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.5.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.5.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.6.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.6.0.0/latest.zip",
         "DownloadCount": 1030,
-        "LastUpdate": "1754742022"
+        "LastUpdate": "1766223098"
     },
     {
         "Author": "SHOEGAZEssb",
