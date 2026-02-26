@@ -22,34 +22,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.9.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.9.1.0/latest.zip",
-        "DownloadCount": 9668,
+        "DownloadCount": 9690,
         "LastUpdate": "1771173571"
-    },
-    {
-        "Author": "SHOEGAZEssb",
-        "Name": "AchManager",
-        "Punchline": "Get notifications for achievement progress!",
-        "Description": "Notifications for achievement progress.",
-        "Changelog": "",
-        "InternalName": "AchManager",
-        "AssemblyVersion": "1.6.0.0",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "achievements"
-        ],
-        "DalamudApiLevel": 14,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.6.0.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.6.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.6.0.0/latest.zip",
-        "DownloadCount": 1180,
-        "LastUpdate": "1766223098"
     },
     {
         "Author": "SHOEGAZEssb",
@@ -76,5 +50,31 @@
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
         "DownloadCount": 66,
         "LastUpdate": "1743618189"
+    },
+    {
+        "Author": "SHOEGAZEssb",
+        "Name": "AchManager",
+        "Punchline": "Get notifications for achievement progress!",
+        "Description": "Notifications for achievement progress.",
+        "Changelog": "",
+        "InternalName": "AchManager",
+        "AssemblyVersion": "1.6.0.0",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "achievements"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.6.0.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.6.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.6.0.0/latest.zip",
+        "DownloadCount": 1181,
+        "LastUpdate": "1766223098"
     }
 ]
