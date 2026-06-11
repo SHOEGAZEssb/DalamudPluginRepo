@@ -1,32 +1,6 @@
 [
     {
         "Author": "SHOEGAZEssb",
-        "Name": "DutyLanguage",
-        "Punchline": "Diversify your ingame voice acting experience",
-        "Description": "Lets you configure voice acting language on a per-duty basis.",
-        "Changelog": "",
-        "InternalName": "DutyLanguage",
-        "AssemblyVersion": "1.0.2.0",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "other"
-        ],
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://github.com/SHOEGAZEssb/DutyLanguage/blob/master/DutyLanguage/images/icon.png",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "DownloadCount": 69,
-        "LastUpdate": "1743618189"
-    },
-    {
-        "Author": "SHOEGAZEssb",
         "Name": "AchManager",
         "Punchline": "Get notifications for achievement progress!",
         "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
@@ -58,7 +32,7 @@
         "Description": "Automates market board penny pinching",
         "Changelog": "",
         "InternalName": "Dagobert",
-        "AssemblyVersion": "1.13.1.0",
+        "AssemblyVersion": "1.14.0.0",
         "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
         "ApplicableVersion": "any",
         "Tags": [
@@ -69,12 +43,38 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.13.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.14.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.13.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.13.1.0/latest.zip",
-        "DownloadCount": 18466,
-        "LastUpdate": "1779781378"
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.14.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.14.0.0/latest.zip",
+        "DownloadCount": 18469,
+        "LastUpdate": "1781211942"
+    },
+    {
+        "Author": "SHOEGAZEssb",
+        "Name": "DutyLanguage",
+        "Punchline": "Diversify your ingame voice acting experience",
+        "Description": "Lets you configure voice acting language on a per-duty basis.",
+        "Changelog": "",
+        "InternalName": "DutyLanguage",
+        "AssemblyVersion": "1.0.2.0",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "other"
+        ],
+        "DalamudApiLevel": 12,
+        "IconUrl": "https://github.com/SHOEGAZEssb/DutyLanguage/blob/master/DutyLanguage/images/icon.png",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+        "DownloadCount": 69,
+        "LastUpdate": "1743618189"
     }
 ]
