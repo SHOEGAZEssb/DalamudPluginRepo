@@ -31,12 +31,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           submodules: true
 
       - name: Setup MSBuild
-        uses: microsoft/setup-msbuild@v2
+        uses: microsoft/setup-msbuild@30375c66a4eea26614e0d39710365f22f8b0af57 # v3
 
       - name: Download Dalamud
         run: |
@@ -44,7 +44,7 @@ jobs:
           Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev\"
 
       - name: Setup NuGet
-        uses: NuGet/setup-nuget@v1
+        uses: NuGet/setup-nuget@fd55a6f3b34392fa83fde1454582407d8c714123 # v4.0
 
       - name: Restore NuGet Packages
         run: nuget restore ${{ inputs.solution_name }}.sln
@@ -53,7 +53,7 @@ jobs:
         run: msbuild ${{ inputs.solution_name }}.sln /p:Configuration=${{ inputs.build_configuration }}
 
       - name: Upload Build Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
           path: ./${{ inputs.solution_name }}/bin/x64/${{ inputs.build_configuration }}/${{ inputs.solution_name }}/*
 
@@ -64,20 +64,20 @@ jobs:
       contents: write
     steps:
       - name: Checkout Plugin Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           repository: ${{ inputs.personal_plugin_repo }}
           token: ${{ secrets.PAT }}
           ref: ${{ inputs.personal_plugin_repo_branch }}
 
       - name: Download Plugin Build Artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
         with:
           name: artifact
           path: plugins/${{ inputs.internal_name }}
 
       - name: Commit
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@cc9c08ba6c8df3b93a8f2db63e89b98368ae2ae8 # v11.1.1
         with:
           add: ./plugins/${{ inputs.internal_name }}/${{ inputs.internal_name }}.json
           author_name: GitHub Action
@@ -85,7 +85,7 @@ jobs:
           message: ${{ inputs.internal_name }} ${{ github.ref_name }}
 
       - name: Create Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@8a0cd651e5b2365bd640854a3fa5dfc70e4875f3 # v3.0.4
         with:
           files: ./plugins/${{ inputs.internal_name }}/latest.zip
           draft: false
