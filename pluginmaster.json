@@ -30,9 +30,9 @@
         "Name": "Dagobert",
         "Punchline": "Penny pinching to the extreme",
         "Description": "Automates market board penny pinching",
-        "Changelog": "",
+        "Changelog": "Fix Auto Pinch skipping normal listings on German, French, and Japanese clients by using the localized context menu action instead of the pricing window title.",
         "InternalName": "Dagobert",
-        "AssemblyVersion": "1.15.0.0",
+        "AssemblyVersion": "1.15.1.0",
         "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
         "ApplicableVersion": "any",
         "Tags": [
@@ -43,13 +43,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.1.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.0.0/latest.zip",
-        "DownloadCount": 25461,
-        "LastUpdate": "1794415242"
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.1.0/latest.zip",
+        "DownloadCount": 25563,
+        "LastUpdate": "1794591364"
     },
     {
         "Author": "SHOEGAZEssb",
