@@ -2,7 +2,7 @@
   "Author": "SHOEGAZEssb",
   "Name": "Dagobert",
   "InternalName": "Dagobert",
-  "AssemblyVersion": "1.15.0.0",
+  "AssemblyVersion": "1.15.1.0",
   "Description": "Automates market board penny pinching",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
@@ -19,6 +19,6 @@
   ],
   "IconUrl": "",
   "Punchline": "Penny pinching to the extreme",
-  "Changelog": "",
+  "Changelog": "Fix Auto Pinch skipping normal listings on German, French, and Japanese clients by using the localized context menu action instead of the pricing window title.",
   "AcceptsFeedback": true
 }
